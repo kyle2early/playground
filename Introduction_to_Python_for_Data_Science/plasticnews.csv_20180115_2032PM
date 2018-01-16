@@ -1,0 +1,56 @@
+,grade,high_high,high_low,low_high,low_low,resin
+0,Blow Molding Copolymer(HIC),91.00,89.00,87.00,85.00,HDPE
+1,Blow Molding Homopolymer (Dairy),90.00,87.00,86.00,85.00,HDPE
+2,Drums,93.00,90.00,89.00,87.00,HDPE
+3,Injection GP,86.00,84.00,82.00,81.00,HDPE
+4,Extrusion Film HMW,97.00,94.00,92.00,90.00,HDPE
+5,Extrusion Film MMW,97.00,95.00,91.00,90.00,HDPE
+6,Extrusion Pipe HMW,103.00,100.00,97.00,95.00,HDPE
+7,Extrusion Pipe MMW,104.00,102.00,101.00,98.00,HDPE
+8,Extrusion Sheet,89.00,87.00,85.00,83.00,HDPE
+9,Rotomolding Powder,99.00,96.00,,,HDPE
+10,Injection GP,100.00,98.00,,,LDPE
+11,Injection Lid Resin,102.00,100.00,98.00,96.00,LDPE
+12,Extrusion Coating paper,,,98.00,96.00,LDPE
+13,Extrusion Film liner,99.00,94.00,93.00,91.00,LDPE
+14,Extrusion Clarity film,95.00,92.00,91.00,89.00,LDPE
+15,Butene-1 comonomer Injection GP,83.00,79.00,,,LLDPE
+16,Butene-1 comonomer Extrusion liner film,84.00,82.00,81.00,78.00,LLDPE
+17,HAO comonomer Injection GP,87.00,85.00,,,LLDPE
+18,HAO comonomer Lid resin,99.00,96.00,93.00,90.00,LLDPE
+19,HAO comonomer Extrusion liner film,91.00,88.00,86.00,84.00,LLDPE
+20,HAO comonomer Rotomolding powder,109.00,104.00,,,LLDPE
+21,Crystal Injection GP,125.00,121.00,119.00,117.00,PS
+22,Crystal High Heat,128.00,127.00,125.00,121.00,PS
+23,High Impact Extrusion,131.00,129.00,126.00,124.00,PS
+24,High Impact Injection,130.00,129.00,125.00,123.00,PS
+25,High Heat injection,135.00,133.00,132.00,127.00,PS
+26,Flame retardant,167.00,163.00,161.00,157.00,PS
+27,EPS cups,,,114.00,111.00,PS
+28,EPS unmodified,113.00,104.00,108.00,105.00,PS
+29,Suspension Resin Injection GP,88.00,86.00,86.00,83.00,PVC
+30,Suspension Resin Pipe grade,87.00,84.00,83.00,81.00,PVC
+31,Dispersion Resin Homopolymer GP,120.00,116.00,114.00,110.00,PVC
+32,Homopolymer Injection GP,82.00,79.00,78.00,76.00,PP
+33,Extrusion Fiber,80.00,78.00,77.00,75.00,PP
+34,Extrusion Film,82.00,79.00,79.00,76.00,PP
+35,Extrusion Profiles,91.00,84.00,82.00,79.00,PP
+36,Extrusion Sheet,84.00,82.00,81.00,78.00,PP
+37,Random Copolymer Injection,84.00,82.00,81.00,79.00,PP
+38,Random Copolymer Film,85.00,83.00,82.00,81.00,PP
+39,Random Copolymer Blow molding,87.00,84.00,82.00,81.00,PP
+40,Impact Copolymer High Impact,98.00,95.00,94.00,90.00,PP
+41,Impact Copolymer TPO,121.00,117.00,118.00,110.00,PP
+42,Injection Medium Impact,128.00,127.00,126.00,123.00,ABS
+43,Injection High Impact,135.00,131.00,129.00,128.00,ABS
+44,Injection Pipe fittings,121.00,117.00,114.00,113.00,ABS
+45,Injection High heat,163.00,158.00,153.00,149.00,ABS
+46,Injection Flame retardant,178.00,163.00,158.00,154.00,ABS
+47,Extrusion Pipe GP,135.00,130.00,127.00,125.00,ABS
+48,Extrusion Sheet GP,147.00,145.00,143.00,142.00,ABS
+49,Blends PC/ABS,166.00,161.00,,,ABS
+50,Blends Nylon/ABS,176.00,166.00,,,ABS
+51,GP,130.00,125.00,,,Acrylic
+52,APET,94.00,92.00,91.00,89.00,PET
+53,Bottle resin,105.50,103.50,102.50,100.50,PET
+54,CPET,,,89.00,87.00,PET

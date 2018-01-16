@@ -1,0 +1,19 @@
+Toy Story, 191.8, 373.6
+A Bug's Life, 162.8, 363.3
+Toy Story 2, 245.9, 497.4
+Monsters Inc., 255.9, 525.4
+Finding Nemo, 339.7, 867.9
+The Incredibles, 261.4, 633.0
+Cars, 244.1, 462.2
+Ratatouille, 206.4, 620.7
+WALL-E, 223.8, 533.3
+Up, 293.0, 735.1
+Toy Story 3, 415.0, 1067.0
+Cars 2, 191.5, 562.1
+Brave, 237.3, 540.4
+Monsters University, 268.5, 744.2
+Inside Out, 356.5, 857.6
+The Good Dinosaur, 123.1, 332.2
+Finding Dory, 486.3, 1028.6
+Cars 3, 152.9, 383.8
+Coco, 193.5, 592.1
