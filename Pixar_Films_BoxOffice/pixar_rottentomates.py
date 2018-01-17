@@ -59,16 +59,8 @@ pixar_all.plot(kind='scatter',x='Release Yr',y='Rotten Tomatoes',s=pixar_all['NA
 plt.title('Earnings for Pixar Films in North America,\n [MM USD]')
 plt.colorbar
 
-# pixar_all.to_csv('pixar_all.csv')
-# pixar_all.plot(kind = 'scatter', x = 'Release Yr', y = 'Rotten Tomatoes',title='Earnings for Pixar Films in North America',s=pixar_all['NA Gross']*2,grid=True,c=pixar_all['NA Gross'],alpha=0.8,cmap='GnBu')
-# cb=plt.colorbar(shrink=0.9)
-# cb.set_label('Boxoffice Gross Earnings')
-# plt.colorbar
-
 # Identify top3 gross films
 pixar_top3 = pixar_all.sort_values(by=['NA Gross'], ascending=False).head(3)
-
-# plt.annotate(pixar_top3.iloc[1]['Film'],xy=(pixar_top3.iloc[1]['Release Yr'],pixar_top3.iloc[1]['Rotten Tomatoes']),xytext=(-20,20),textcoords='offset points',arrowops=dict(arrowstyle='-->', connectionstyle='arc3,rad=0'))
 
 # Annotate the plot with top3 gross films
 for index, row in pixar_top3.iterrows():
