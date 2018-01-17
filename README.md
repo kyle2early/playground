@@ -1,2 +1,5 @@
-# playground
-Playground to learn &amp; test out projects
+# Playground
+
+Playground to learn::
+#1 - Python
+#2 - R
