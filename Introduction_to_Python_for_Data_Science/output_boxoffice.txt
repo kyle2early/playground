@@ -16,4 +16,4 @@ Inside Out, 356.5, 857.6
 The Good Dinosaur, 123.1, 332.2
 Finding Dory, 486.3, 1028.6
 Cars 3, 152.9, 383.8
-Coco, 193.5, 592.1
+Coco, 198.2, 626.6
