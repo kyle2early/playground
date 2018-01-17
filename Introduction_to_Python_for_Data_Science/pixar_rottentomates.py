@@ -1,5 +1,6 @@
 #project ideas (stolen from r/dataisbeautiful) :: disney/pixar films & rotten tomatoes ratings; bubble size by opening box office revenue;
 #
+
 import urllib2
 from bs4 import BeautifulSoup
 import csv
