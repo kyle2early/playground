@@ -5,8 +5,8 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from bs4 import BeautifulSoup
 
-# url="http://www.plasticsnews.com/resin/commodity-thermoplastics/current-pricing"
-# page=urllib2.urlopen(url).read()
+url="http://www.plasticsnews.com/resin/commodity-thermoplastics/current-pricing"
+page=urllib2.urlopen(url).read()
 
 resins = ["HDPE","LDPE","LLDPE","PS","PVC","PP","ABS","Acrylic","PET"]
 tablesIDs = ["data-table_" + x for x in resins]
